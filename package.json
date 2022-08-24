@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.5",
+    "webpack": "^5.72.1"
+  }
+}
