@@ -1,0 +1,72 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1652752042988/work
+bcrypt==3.2.0
+blinker==1.4
+brotlipy @ file:///D:/bld/brotlipy_1648854327487/work
+capstone==4.0.2
+certifi==2022.6.15
+cffi @ file:///D:/bld/cffi_1656782930891/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1655906222726/work
+click==7.1.2
+colored-traceback==0.3.0
+commonmark==0.9.1
+conda==4.14.0
+conda-package-handling @ file:///C:/ci/conda-package-handling_1649106011304/work
+cryptography @ file:///C:/ci/cryptography_1652083563162/work
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+docutils==0.18.1
+feedgenerator==2.0.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+importlib-metadata==4.11.4
+intervaltree==3.1.0
+Jinja2==3.1.2
+Mako==1.1.6
+Markdown==3.3.7
+MarkupSafe==2.0.1
+menuinst==1.4.16
+mysql-connector-python==8.0.28
+mysqlclient==2.1.0
+packaging==21.3
+paramiko==2.8.1
+pelican==4.7.2
+plumbum==1.7.1
+psutil==5.8.0
+psycopg2 @ file:///D:/bld/psycopg2-split_1640944733042/work
+pwntools==4.7.0
+pycosat @ file:///D:/bld/pycosat_1649384983580/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyelftools==0.27
+Pygments==2.10.0
+PyNaCl==1.4.0
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+pyparsing==3.0.6
+pypiwin32==223
+PyQt5==5.15.4
+pyqt5-plugins==5.15.4.2.2
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.10.1
+pyqt5-tools==5.15.4.3.2
+pyserial==3.5
+PySocks @ file:///D:/bld/pysocks_1648857426942/work
+python-dateutil==2.8.2
+python-decouple==3.6
+python-dotenv==0.20.0
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1660580468234/work
+pywin32==303
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1656534056640/work
+rich==12.4.4
+ROPGadget==6.6
+rpyc==5.0.1
+ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
+sortedcontainers==2.4.0
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1631317292236/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1610419111160/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+unicorn==2.0.0rc5.post1
+Unidecode==1.3.4
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1648771910527/work
+yara-python==4.1.3
+zipp==3.8.0
